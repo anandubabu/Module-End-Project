@@ -1,5 +1,5 @@
 
-**Employee Data Analysis using Python**
+#**Employee Data Analysis using Python**
 
 
 Welcome to our employee data analysis project! This repository holds a Python script designed to help you dive into your employee data using the Pandas, NumPy, and Matplotlib libraries. The script reads data from a CSV file, conducts different types of analyses, and creates visual representations. Our analysis covers important aspects like team distribution, employee roles, age groups, salary allocation, and the potential connection between age and salary.
